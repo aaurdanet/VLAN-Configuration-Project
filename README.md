@@ -4,7 +4,7 @@ This project extends the learning of configuring VLANs in a Cisco environment, b
 
 Files:
 
-Static VLAN Configuration Project.pkt: Cisco Packet Tracer file with the configured LAN model.
+VLAN Configuration Project.pkt: Cisco Packet Tracer file with the configured VLAN model.
 
 How to Explore:
 
